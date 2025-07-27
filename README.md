@@ -17,7 +17,7 @@ MyTracker is a simple shopping tracker Android app built using modern Android de
 
 | Add Item Dialog | Shopping List Grid | Expanded Item |
 |------------------|--------------------|----------------|
-| (screenshots/image.jpeg) | (screenshots/image2.jpeg) | (screenshots/image3.jpeg) |
+| <img src="screenshots/image.jpeg" width="250"/>  | <img src="screenshots/image2.jpeg" width="250"/> | <img src="screenshots/image3.jpeg" width="250"/> |
 
 ## 🧱 Architecture
 
