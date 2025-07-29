@@ -1,9 +1,9 @@
-package com.just.track.shopping.presentation
+package com.just.track.todo.presentation
 
-import com.just.track.shopping.domain.model.ShoppingItems
+import com.just.track.todo.domain.model.ShoppingItems
 
 // It contains ui state , events, and effects
-interface ShoppingUIContract {
+interface TodoUIContract {
 
     data class State(
         val items: List<ShoppingItems> = emptyList(),

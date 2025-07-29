@@ -3,7 +3,7 @@ package com.just.track.dialog.addItem.presentation
 import android.util.Log
 import androidx.lifecycle.ViewModel
 import com.just.track.dialog.addItem.presentation.mapper.toShoppingItems
-import com.just.track.shopping.domain.model.ShoppingItems
+import com.just.track.todo.domain.model.ShoppingItems
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.update

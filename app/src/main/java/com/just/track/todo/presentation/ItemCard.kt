@@ -1,4 +1,4 @@
-package com.just.track.shopping.presentation
+package com.just.track.todo.presentation
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -29,7 +29,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.PreviewLightDark
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.just.track.shopping.domain.model.ShoppingItems
+import com.just.track.todo.domain.model.ShoppingItems
 import com.just.track.utils.presentation.ExpandableText
 
 @Composable

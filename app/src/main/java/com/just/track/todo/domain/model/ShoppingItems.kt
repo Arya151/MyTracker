@@ -1,4 +1,4 @@
-package com.just.track.shopping.domain.model
+package com.just.track.todo.domain.model
 
 data class ShoppingItems(
     val name: String,
